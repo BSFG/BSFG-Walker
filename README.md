@@ -6,4 +6,6 @@
 
 [![](http://img.youtube.com/vi/lrHiOYXPudo/0.jpg)](http://www.youtube.com/watch?v=lrHiOYXPudo "")
 
-Для покупки первой версии пишите по адресу bsfgwalker@gmail.com
+Стоимость первой версии 500 руб.
+
+Для покупки пишите по адресу bsfgwalker@gmail.com
