@@ -15,4 +15,6 @@
 
 ![Resolution](https://github.com/BSFG/BSFG-Walker/blob/master/images/resolution.jpg)
 
+* Панель скиллов.
+![Skills panel](https://github.com/BSFG/BSFG-Walker/blob/master/images/skills%20panel.jpg)
 
