@@ -10,4 +10,5 @@
 
 Бесплатная версия работает только на 1 окно
 
-#### Настройка
+### Настройка
+![Resolution](https://github.com/BSFG/BSFG-Walker/blob/master/images/resolution.jpg)
