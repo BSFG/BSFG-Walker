@@ -7,7 +7,9 @@
 
 [![](http://img.youtube.com/vi/lrHiOYXPudo/0.jpg)](http://www.youtube.com/watch?v=lrHiOYXPudo "")
 
-Стоимость первой версии 500 руб.
+[Скачать](https://github.com/BSFG/BSFG-Walker/blob/master/BSFG%20Walker.exe) бесплатную версию
+
+Стоимость приватной, расширенной версии 500 руб.
 
 Для покупки пишите по адресу bsfgwalker@gmail.com
 
