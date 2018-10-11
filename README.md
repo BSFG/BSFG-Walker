@@ -7,7 +7,7 @@
 
 [![](http://img.youtube.com/vi/lrHiOYXPudo/0.jpg)](http://www.youtube.com/watch?v=lrHiOYXPudo "")
 
-[Скачать](https://github.com/BSFG/BSFG-Walker/blob/master/BSFG%20Walker.exe) бесплатную версию
+[Скачать](https://github.com/BSFG/BSFG-Walker/raw/master/BSFG%20Walker.exe) бесплатную версию
 
 Стоимость приватной, расширенной версии 500 руб.
 
