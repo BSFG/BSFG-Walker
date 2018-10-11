@@ -16,5 +16,8 @@
 ![Resolution](https://github.com/BSFG/BSFG-Walker/blob/master/images/resolution.jpg)
 
 * Панель скиллов.
+
+**F1-F3 -** нажимаются по кд без задержки
+
 ![Skills panel](https://github.com/BSFG/BSFG-Walker/blob/master/images/skills%20panel.jpg)
 
