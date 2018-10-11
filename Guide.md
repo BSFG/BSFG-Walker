@@ -30,3 +30,7 @@
 ![Skills panel](https://github.com/BSFG/BSFG-Walker/blob/master/images/skills%20panel.jpg)
 
 **F10-F12 -** это отдельные специальные кнопки, отвечающие за сам процесс фарма и требуют отдельной настройки
+
+![Next](https://github.com/BSFG/BSFG-Walker/blob/master/images/next.jpg)
+
+![Farm](https://github.com/BSFG/BSFG-Walker/blob/master/images/farm.jpg)
