@@ -14,3 +14,6 @@
 Для покупки пишите по адресу bsfgwalker@gmail.com
 
 [Наша группа VK](https://vk.com/club172474498)
+
+[Инструкция по настройке](https://github.com/BSFG/BSFG-Walker/blob/master/Guide.md)
+
