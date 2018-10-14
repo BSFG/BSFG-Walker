@@ -9,6 +9,8 @@
 
 [Скачать](https://github.com/BSFG/BSFG-Walker/raw/master/BSFG%20Walker.exe) бесплатную версию
 
+[Скачать](https://github.com/BSFG/BSFG-Walker/raw/master/BSFG%20Walker%201366x768%20Edition.exe) бесплатную 1366x768 версию
+
 Стоимость приватной, расширенной версии 500 руб.
 
 Для покупки пишите по адресу bsfgwalker@gmail.com
