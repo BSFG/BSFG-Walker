@@ -60,4 +60,4 @@
 
 **Запускать программу необходимо с правами администратора**
 
-[![]](https://www.youtube.com/watch?v=-2vHtfPp4dw "")
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/-2vHtfPp4dw/0.jpg)](https://www.youtube.com/watch?v=-2vHtfPp4dw)
