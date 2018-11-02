@@ -87,4 +87,8 @@ Num0, Num/, Num* -  это отдельные специальные кнопк�
 
 **Запускать программу необходимо с правами администратора**
 
+** 0 и - не используются
+
+![Tp](https://raw.githubusercontent.com/BSFG/BSFG-Walker/master/images/tp.PNG)
+
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/-2vHtfPp4dw/0.jpg)](https://www.youtube.com/watch?v=-2vHtfPp4dw)
