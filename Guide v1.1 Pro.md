@@ -6,6 +6,7 @@
 
 ### Возможности программы
 * Автохил при уменьшении уровня здоровья
+* Автохил при уменьшении уровня боевого духа
 * Автоматическое вспарывание и открытие сундуков
 * Автоподбор лута
 * Автофарм
@@ -24,7 +25,12 @@
 
 ![Resolution](https://github.com/BSFG/BSFG-Walker/blob/master/images/resolution.jpg)
 
+При совместимости программы и вашего разрешения, подсвечивается зеленым, если нет - красным
+![Res success](https://raw.githubusercontent.com/BSFG/BSFG-Walker/master/images/resol.PNG)
+
 Также необходимо сделать "сброс окон"(ALT + L), чтоб панели с хп персонажа и крипов были стандартными, находились в первоначальных местах и в настройках клавиатуры выбрать "Чат с Enter"
+
+
 
 ![Enter chat](https://github.com/BSFG/BSFG-Walker/blob/master/images/enter%20chat.PNG)
 
