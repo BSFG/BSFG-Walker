@@ -1,6 +1,6 @@
 ### Инструкция по использованию автофарм бота для BSFG Возрождение/Lineage II
 
-![Logo](https://raw.githubusercontent.com/BSFG/BSFG-Walker/master/walker%20pro.png)
+![Logo](https://raw.githubusercontent.com/BSFG/BSFG-Walker/master/v%201.1/walker%20pro.png)
 
 Данный гайд для платной версии BSFG Walker v1.1 Pro
 
