@@ -63,9 +63,9 @@
 
 **F9 -** то же, что и F7-F8, но используются каждые 20 минут, можно ставить еду, чтоб при автоподборе лута дольше не было перегруза
 
-![Skills panel](https://raw.githubusercontent.com/BSFG/BSFG-Walker/master/images/skills%20panel%201.1%20pro.PNG)
+![Skills panel](https://raw.githubusercontent.com/BSFG/BSFG-Walker/master/images/skillls%20panel%20v1.1%20free.png)
 
-Num0, Num/, Num* -  это отдельные специальные кнопки, отвечающие за сам процесс фарма и требуют отдельной настройки
+**F10-F12 -** это отдельные специальные кнопки, отвечающие за сам процесс фарма и требуют отдельной настройки
 
 Макросы создаем идентичные гайду для бесплатной версии 1.0
 
