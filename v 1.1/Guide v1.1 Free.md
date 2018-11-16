@@ -110,7 +110,7 @@
 
 **Запускать программу необходимо с правами администратора**
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/-2vHtfPp4dw/0.jpg)](https://www.youtube.com/watch?v=-2vHtfPp4dw)
+[![Free v1.1](https://img.youtube.com/vi/nNMZS9447D4/0.jpg)](https://www.youtube.com/watch?v=nNMZS9447D4)
 
 [Скачать](https://github.com/BSFG/BSFG-Walker/raw/master/v%201.1/BSFG%20Walker%20v1.1.exe) версию под Windows 8/10
 
