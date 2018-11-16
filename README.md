@@ -19,7 +19,7 @@
 
 [Инструкция по настройке](https://github.com/BSFG/BSFG-Walker/blob/master/Guide.md)
 
-### ------------------------------------------
+### BSFGWalker v1.1 Free & Pro
 
 Состоялся релиз версии BSFGWalker v1.1 Free & Pro
 
