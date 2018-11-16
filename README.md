@@ -19,4 +19,16 @@
 
 [Инструкция по настройке](https://github.com/BSFG/BSFG-Walker/blob/master/Guide.md)
 
-### ===
+### ------------------------------------------
+
+Состоялся релиз версии BSFGWalker v1.1 Free & Pro
+
+[Инструкция по настройке Free версии](https://github.com/BSFG/BSFG-Walker/blob/master/v%201.1/Guide%20v1.1%20Free.md)
+
+[Инструкция по настройке Pro версии](https://github.com/BSFG/BSFG-Walker/blob/master/v%201.1/Guide%20v1.1%20Pro.md)
+
+[Скачать](https://github.com/BSFG/BSFG-Walker/raw/master/v%201.1/BSFG%20Walker%20v1.1.exe) версию под Windows 8/10
+
+[Скачать](https://github.com/BSFG/BSFG-Walker/raw/master/v%201.1/BSFG%20Walker%20v1.1%20Win7.exe) версию под Windows 7
+
+[Скачать](https://github.com/BSFG/BSFG-Walker/raw/master/v%201.1/BSFG%20Walker%20v1.1%20WinXP.exee) версию под Windows XP
