@@ -116,5 +116,7 @@
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/-2vHtfPp4dw/0.jpg)](https://www.youtube.com/watch?v=-2vHtfPp4dw)
 
 [Скачать](https://github.com/BSFG/BSFG-Walker/raw/master/v%201.1/BSFG%20Walker%20v1.1.exe) версию под Windows 8/10
+
 [Скачать](https://github.com/BSFG/BSFG-Walker/raw/master/v%201.1/BSFG%20Walker%20v1.1%20Win7.exe) версию под Windows 7
+
 [Скачать](https://github.com/BSFG/BSFG-Walker/raw/master/v%201.1/BSFG%20Walker%20v1.1%20WinXP.exee) версию под Windows XP
