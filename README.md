@@ -19,3 +19,4 @@
 
 [Инструкция по настройке](https://github.com/BSFG/BSFG-Walker/blob/master/Guide.md)
 
+### ===
