@@ -138,4 +138,4 @@ Num0, Num/, Num* -  это отдельные специальные кнопк�
 
 **Запускать программу необходимо с правами администратора**
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/-2vHtfPp4dw/0.jpg)](https://www.youtube.com/watch?v=-2vHtfPp4dw)
+[![Pro v1.1](https://img.youtube.com/vi/nNMZS9447D4/0.jpg)](https://www.youtube.com/watch?v=nNMZS9447D4)
