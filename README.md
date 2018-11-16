@@ -34,4 +34,4 @@
 
 [Скачать](https://github.com/BSFG/BSFG-Walker/raw/master/v%201.1/BSFG%20Walker%20v1.1%20Win7.exe) версию под Windows 7
 
-[Скачать](https://github.com/BSFG/BSFG-Walker/raw/master/v%201.1/BSFG%20Walker%20v1.1%20WinXP.exee) версию под Windows XP
+[Скачать](https://github.com/BSFG/BSFG-Walker/raw/master/v%201.1/BSFG%20Walker%20v1.1%20WinXP.exe) версию под Windows XP
