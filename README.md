@@ -24,7 +24,7 @@
 ## BSFGWalker v1.1 Free & Pro
 
 
-Состоялся релиз версии BSFGWalker v1.1 Free & Pro
+Состоялся релиз версии BSFGWalker v1.1
 
 [Инструкция по настройке Free версии](https://github.com/BSFG/BSFG-Walker/blob/master/v%201.1/Guide%20v1.1%20Free.md)
 
