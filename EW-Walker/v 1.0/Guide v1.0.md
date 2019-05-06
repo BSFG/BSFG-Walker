@@ -1,6 +1,6 @@
 ### Инструкция по использованию автофарм бота для EndlessWar.Online
 
-![Logo](https://raw.githubusercontent.com/BSFG/BSFG-Walker/master/v%201.1/walker%20pro.png)
+![Logo](https://raw.githubusercontent.com/BSFG/BSFG-Walker/master/EW-Walker/v%201.0/ew%20walker.png)
 
 Данный гайд для версии EW Walker v1.0
 
