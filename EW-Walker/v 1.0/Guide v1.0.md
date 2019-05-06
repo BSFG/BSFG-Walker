@@ -44,7 +44,7 @@
 
 Если у вас выучено ремесло разделки, то необходимо установить скилл вспарывания на данную кнопку и активировать соответствующий чекбокс в программе
 
-![Razdelka](https://github.com/BSFG/BSFG-Walker/blob/master/images/razdelka.PNG)
+![Razdelka](https://raw.githubusercontent.com/BSFG/BSFG-Walker/master/EW-Walker/v%201.0/num4.PNG)
 
 Если же вы выучили открытие сундуков, то следует установить на данную кнопку специальный макрос:
 
@@ -52,7 +52,7 @@
 
 И, соответсвенно, активировать в программе:
 
-![Open chest](https://raw.githubusercontent.com/BSFG/BSFG-Walker/master/images/open%20chest.PNG)
+![Open chest](https://raw.githubusercontent.com/BSFG/BSFG-Walker/master/EW-Walker/v%201.0/num4.PNG)
 
 #### ВАЖНО
 
