@@ -1,3 +1,21 @@
+# EW Walker
+
+![Image of Yaktocat](https://raw.githubusercontent.com/BSFG/BSFG-Walker/master/EW-Walker/v%201.0/ew%20walker.png))
+
+Бот для автоматического фарма на сервере EndlessWar.Online.
+
+[![](http://img.youtube.com/vi/lrHiOYXPudo/0.jpg)](http://www.youtube.com/watch?v=lrHiOYXPudo "")
+
+[Скачать](https://github.com/BSFG/BSFG-Walker/raw/master/BSFG%20Walker.exe) бесплатную версию
+
+Многооконная версия программы платная.
+
+Для покупки пишите по адресу bsfgwalker@gmail.com
+
+[Наша группа VK](https://vk.com/club172474498)
+
+[Инструкция по настройке](https://github.com/BSFG/BSFG-Walker/blob/master/EW-Walker/v%201.0/Guide%20v1.0.md)
+
 # BSFG-Walker
 
 ![Image of Yaktocat](https://github.com/BSFG/BSFG-Walker/blob/master/walker.png)
