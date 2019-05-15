@@ -128,4 +128,4 @@ Num0, Num/, Num* -  это отдельные специальные кнопк�
 
 **Запускать программу необходимо с правами администратора**
 
-[![Pro v1.1](https://img.youtube.com/vi/nNMZS9447D4/0.jpg)](https://www.youtube.com/watch?v=nNMZS9447D4)
+[![Pro v1.1](https://img.youtube.com/vi/rZuyiy4MV2o/0.jpg)](https://www.youtube.com/watch?v=rZuyiy4MV2o
