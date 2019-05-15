@@ -4,9 +4,9 @@
 
 Бот для автоматического фарма на сервере EndlessWar.Online.
 
-[![](http://img.youtube.com/vi/lrHiOYXPudo/0.jpg)](http://www.youtube.com/watch?v=lrHiOYXPudo "")
+[![](http://img.youtube.com/vi/lrHiOYXPudo/0.jpg)](http://www.youtube.com/watch?v=lrHiOYXPudo"")
 
-[Скачать](https://github.com/BSFG/BSFG-Walker/raw/master/BSFG%20Walker.exe) бесплатную версию
+[Скачать](https://github.com/BSFG/BSFG-Walker/blob/master/EW-Walker/v%201.0/EW%20Walker%201.0.exe?raw=true) бесплатную версию
 
 Многооконная версия программы платная.
 
