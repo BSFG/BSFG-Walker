@@ -4,7 +4,7 @@
 
 Бот для автоматического фарма на сервере EndlessWar.Online.
 
-[![](http://img.youtube.com/vi/lrHiOYXPudo/0.jpg)]("")
+[![](http://img.youtube.com/vi/lrHiOYXPudo/0.jpg)](https://www.youtube.com/watch?v=rZuyiy4MV2o"")
 
 [Скачать](https://github.com/BSFG/BSFG-Walker/blob/master/EW-Walker/v%201.0/EW%20Walker%201.0.exe?raw=true) бесплатную версию
 
