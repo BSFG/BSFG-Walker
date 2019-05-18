@@ -72,6 +72,7 @@
 **9, Num9 -** то же, что и 7-8, но используются каждые 20 минут, можно ставить еду, чтоб при автоподборе лута дольше не было перегруза
 
 ![Skills panel](https://raw.githubusercontent.com/BSFG/BSFG-Walker/master/images/skills%20panel%201.1%20pro.PNG)
+![Skills panel](https://raw.githubusercontent.com/BSFG/BSFG-Walker/master/EW-Walker/v%201.0/панельскиллов.PNG)
 
 Num0, Num/, Num* -  это отдельные специальные кнопки, отвечающие за сам процесс фарма и требуют отдельной настройки
 
