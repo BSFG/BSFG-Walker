@@ -46,9 +46,12 @@
 
 ![Razdelka](https://raw.githubusercontent.com/BSFG/BSFG-Walker/master/EW-Walker/v%201.0/num4.PNG)
 
-Если же вы выучили открытие сундуков, то следует установить на данную кнопку специальный макрос:
+Для автоматического открытия сундуков следует создать специальный макрос:
 
-![Cherst macros](https://raw.githubusercontent.com/BSFG/BSFG-Walker/master/images/chest%20macros.png)
+![Cherst macros](https://raw.githubusercontent.com/BSFG/BSFG-Walker/master/EW-Walker/v%201.0/чест.PNG)
+
+Обязательно используйте этот значок:
+![Cherst macros](https://raw.githubusercontent.com/BSFG/BSFG-Walker/master/EW-Walker/v%201.0/честлого.PNG)
 
 И, соответсвенно, активировать в программе:
 
